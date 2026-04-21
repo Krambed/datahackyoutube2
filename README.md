@@ -1,3 +1,4 @@
+#### Submission for COMMSTEM x SUDATA Hackathon: Team Pool Boys
 # YouTube Trend Advisor Demo
 
 A web application demo for analyzing YouTube trending data from 2026 to help content creators understand trends and get personalized recommendations.
